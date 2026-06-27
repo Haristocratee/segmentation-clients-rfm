@@ -9,6 +9,12 @@
 
 ---
 
+
+## Visualisation
+
+![Nuage de points RFM · Score Silhouette (k=5 optimal) · Radar par segment](assets/viz_4_rfm.png)
+
+> *Nuage de points RFM · Score Silhouette (k=5 optimal) · Radar par segment*
 ## 🎯 Objectif
 
 Transformer 541 000 transactions e-commerce en une segmentation client exploitable par les équipes marketing pour personnaliser les actions CRM et maximiser le ROI.
